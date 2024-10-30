@@ -1,3 +1,4 @@
+#九九乘法表
 import time
 for i in range(1,10):
     j = 1
